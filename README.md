@@ -1,4 +1,4 @@
-# food-instance-segmentation
+# maskrcnn-instance-segmentation
 Testing maskrcnn_resnet50_fpn_v2 model for instance segmentation
 
 ## Setup and run
